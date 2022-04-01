@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="del">
+    <file>backspace-pngrepo-com.png</file>
+  </qresource>
+</RCC>
